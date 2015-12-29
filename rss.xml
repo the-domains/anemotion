@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ANEMOTION]]></title>
         <description><![CDATA[ANEMOTION]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anemotion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 14:19:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 14:24:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anemotion/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We are ANEMOTION. We are a creative company based in munich & berlin, germany. We specialize on what we do best: creating emotion – through image, film, design and strategy.</p>]]></description>
-            <link>undefined0bd5644a-d202-4436-904b-834b3b31913d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78c99e2d-f58a-4861-97e8-9a2f15c47692.png">]]></description>
+            <link>https://thegrid.ai/anemotion/0bd5644a-d202-4436-904b-834b3b31913d/index.html</link>
             <guid isPermaLink="false">0bd5644a-d202-4436-904b-834b3b31913d</guid>
-            <pubDate>Tue, 29 Dec 2015 14:19:03 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 14:24:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
